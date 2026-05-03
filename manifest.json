@@ -1,0 +1,20 @@
+{
+  "name": "Shengzi",
+  "short_name": "Shengzi",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#1a202c",
+  "icons": [
+    {
+      "src": "assets/male/base_face.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/female/base_face.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+const e={family:{male:"👦",female:"👧",married:"💍",pregnant:"🤰",genius:"🌟",favorite:"⭐"},common:{favoriteOn:"★",favoriteOff:"☆",maleSymbol:"♂",femaleSymbol:"♀",lifespan:"寿"},catalog:{unlocked:"📖",locked:"🔒"}};export{e as I};
