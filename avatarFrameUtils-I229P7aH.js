@@ -1,0 +1,1 @@
+import{b as r}from"./index-4ZUjViDJ.js";const i=({hasMetPlayer:A=!0,affection:t=0,isRomance:a=!1,isSpouse:N=!1,isCloseFriend:f=!1}={})=>{if(!A)return r.ACQUAINTANCE;if(N||a)return r.ROMANCE;const e=Number(t)||0;return f||e>=80?r.CONFIDANT:e>=50?r.FRIEND:r.ACQUAINTANCE};export{i as r};
